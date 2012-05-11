@@ -92,7 +92,7 @@ colorscheme molokai
 set t_Co=256
 " guarantees that the NERDTrees for all tabs will be one and the same
 map <F2> :NERDTreeToggle \| :silent NERDTreeMirror<CR>
-let g:po_translator="Kurniawan Haikal <conecones@gmail.com>"
+let g:po_translator="Mahyuddin Susanto <udienz@gmail.com>"
 let g:po_lang_team="Debian Indonesia Translators <debian-l10n-indonesian@lists.debian.org>"
 
 function! ResCur()
